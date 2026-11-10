@@ -1,0 +1,1 @@
+this is static image storage for my website
